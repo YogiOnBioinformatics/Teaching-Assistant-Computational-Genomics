@@ -28,8 +28,11 @@ Contains documents related to a tutorial I gave on Computational Genomics, [HOME
 **Highlights** 
 
 ► Selected as sole UTA to facilitate teaching of Genome Browsers, Unix, Genome arithmetic, Sequence Alignment, ChIP-Seq and RNA-Seq to 40 students. 
+
 ► Surpassed expectation of accessibility by giving students personal phone number to text on-demand as issues arose. 
+
 ► Planned and delivered 3 workshops ranging from Computational Genomics tools to Molecular Biology/Mathematics for Bioinformatics. 
+
 ► Earned 100% helpfulness rating in Teaching Assistant Performance Review.
 
 
